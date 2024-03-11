@@ -9,11 +9,10 @@ Neural network quantization is an essential technique for deploying models on re
 ---
 
 
-[!Table Quantitative Results](imgs/quant_tab.png)
+![Table Quantitative Results](imgs/quant_tab.png)
+
+![Figure Quantitative Results](imgs/quant_graph.png)
 
 
-[!Figure Quantitative Results](imgs/quant_graph.png)
-
-
-[!Figure Qualitative Results](imgs/ILSVRC2012_val_00000002.png)
+![Figure Qualitative Results](imgs/ILSVRC2012_val_00000002.png)
 
