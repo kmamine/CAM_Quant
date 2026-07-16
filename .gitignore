@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Project outputs
+results_heatmaps*/
+*.log
+
+# Datasets (large; provided separately, not tracked)
+ILSVRC/
+data/
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/

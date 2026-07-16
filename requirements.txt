@@ -1,0 +1,12 @@
+# Core deep-learning stack
+torch>=1.13
+torchvision>=0.14
+torchcam>=0.3.2
+
+# Numerics, imaging, and plotting
+numpy>=1.21
+Pillow>=9.0
+matplotlib>=3.5
+
+# Progress bar
+tqdm>=4.60
